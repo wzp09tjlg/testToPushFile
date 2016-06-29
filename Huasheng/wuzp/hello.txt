@@ -1,0 +1,8 @@
+class main{
+ 
+ public static void main(String args[]){
+   print.out("this is a java file,and just to do this.nothing can be true");
+ }
+
+
+}
